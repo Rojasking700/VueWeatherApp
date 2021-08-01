@@ -81,14 +81,14 @@ body {
 }
 
 #app { 
-  background-image: url('./assets/cold-bg.jpg');
+  background-image: url('./assets/mountain_landscape12_generated.jpg');
   background-size: cover;
   background-position: bottom;
   transition: 0.4s;
 }
 
 #app.warm {
-  background-image: url('./assets/warm-bg.jpg')
+  background-image: url('./assets/mountain_landscape27_generated.jpg')
 }
 
 main {
